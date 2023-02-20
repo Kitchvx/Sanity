@@ -1,7 +1,7 @@
 # Sanity
 Just a small game I'm working on for my college course.
 
-This is just a small project I'm working on at college, if i take a liking to the game I will continue to develop the game in my spare time after the course is over. The Conept for the game is simple. A man wakes up leaves his homw and goes on an adventure when things seem to be getting more and strange, the controls will change from the traditionl "WASD" keys to something like "IJKL" and you have to figure out whivh key moves you forward etc. I thought it would be a neet twist to attempt to incorporate.
+This is just a small project I'm working on at college, if I take a liking to the game I will continue to develop the game in my spare time after the course is over. The Conept for the game is simple. A man wakes up leaves his home and goes on an adventure when things seem to be getting more and strange. The inspiration behind this is the likes of fantasy, psychological and with a hint of Lovecraftian. Thats what I'm attempting to accomplisha anyways.
 
 ## Release History
 
